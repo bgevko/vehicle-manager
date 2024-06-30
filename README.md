@@ -135,8 +135,8 @@ Assuming Cancel / delete attempts will be met with appropriate prompts.
 - User can see trip driver
 - User can see trip vehicle
 - User can see used mileage
-- User can view [Expenses](#expenses) screen
-- User can view the [Incidents](#incidents) screen
+- User can view [Expenses](#expenses) screen (if any)
+- User can view the [Incidents](#incidents) screen (if any)
 
 ## Expenses
 
