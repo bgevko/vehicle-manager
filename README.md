@@ -48,7 +48,7 @@
 - Manager can go back to [Vehicles](#vehicles)
 
 ## Vehicle Details
-
+- User can go back to the previous screen (contextual)
 - User can see the vehicle's current status (checked out or available).
 - User can see the vehicle's maintenance status.
 - User can see the vehicle's make, model, year, license plate, and current mileage.
