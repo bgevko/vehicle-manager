@@ -3,9 +3,7 @@
 This is a text-based user flow for the vehicle manager, designed in accordance with how iOS navigation behaves. You get the feel for the user flow by looking at the available options on the screen, and clicking the link to navigate to a new screen.
 
 _Driver:_ The person using the vehicle
-
 _Manager_: The person managing assets and possibly using the vehicle
-
 _User_: Either driver or manager
 
 Assuming Cancel / delete attempts will be met with appropriate prompts.
