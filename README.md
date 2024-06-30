@@ -163,11 +163,10 @@ Assuming Cancel / delete attempts will be met with appropriate prompts.
 
 ## Current Trip
 
-- Trips can go to [Trips](#trips)
-- User can go back to the previous contextual screen
-- Driver should be able to add an expense with a [Expense Form](#expense-form)
-- Driver should be able to add an incident with a [Incident Form](#incident-form)
-- Driver should be able to end the trip with a [End Trip](#end-trip)
+- User can go back to [Trips](#trips), or to the previous contextual menu
+- User should be able to add an expense with a [Expense Form](#expense-form)
+- User should be able to add an incident with a [Incident Form](#incident-form)
+- User should be able to end the trip with a [End Trip](#end-trip)
 
 ## Incident Form
 
