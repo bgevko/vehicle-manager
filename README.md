@@ -18,9 +18,8 @@ Assuming Cancel / delete attempts will be met with appropriate prompts.
 
 - User can go to [Trips](#trips)
 - User can go to [Maintenance](#maintenance)
-- User see the list of all vehicles, with available and checked out vehicles grouped separately.
+- User see the list of all vehicles, tapping on one leads to [Vehicle Details](#vehicle-details)
   - Filterable by vehicle type, last driven, last driver, mileage, and maintenance status (Overdue, due soon, up-to-date)
-- User can go to [Vehicle Details](#vehicle-details) by selecting a vehicle.
 - User can single-tap checkout a vehicle; the state is updated appropriately
 - User can see their checked out vehicle. User can go to [Begin Trip](#begin-trip) from their checked out vehicle.
 - User can single-tap check in a vehicle; the state is updated appropriately
@@ -38,10 +37,10 @@ Assuming Cancel / delete attempts will be met with appropriate prompts.
 ## Manage Vehicles
 
 - Manager can go back to [Vehicles](#vehicles), or the previous contextual screen
+- Manager a list of all vehicles, tapping on one leads to [Vehicle Details](#vehicle-details)
 - Manager can add a new vehicle with the [Vehicle Form](#vehicle-form)
 - Manager can edit a vehicle with the [Vehicle Form](#vehicle-form)
 - Manager can delete a vehicle.
-- Manager can go to [Vehicle Details](#vehicle-details)
 
 ## Vehicle Form
 
@@ -56,7 +55,7 @@ Assuming Cancel / delete attempts will be met with appropriate prompts.
 ## Vehicle Details
 
 - User can go [Vehicles](#vehicles), or the previous contextual screen
-- User can see the vehicle's current status (checked out or available).
+- User can see the vehicle's current status (checked out by <driver name> or available).
 - User can see the vehicle's maintenance status, (Overdue, due soon, up-to-date)
 - User can see the vehicle's make, model, year, license plate, and current mileage.
 - User can see the vehicle's current location.
@@ -125,12 +124,12 @@ Assuming Cancel / delete attempts will be met with appropriate prompts.
 ## Trip History
 
 - User can go to [Trips](#trips), or to the previous contextual screen
-- Driver can see filterable list of their previous trips
-- Manager can see a filterable list of all previous trips
+- Driver can see filterable list of _only their_ trips, tapping on one leads to [Trip Report](#trip-report)
+- Manager can see a filterable list of _all_ previous trips, tapping on one leads to [Trip Report](#trip-report)
 - User can export the list
-- User can tap on a trip to view the [Trip Report](#trip-report)
 
 ## Trip Report
+
 - User can see trip date and time
 - User can see trip driver
 - User can see trip vehicle (tapping leads to [Vehicle Details](#vehicle-details))
@@ -141,10 +140,9 @@ Assuming Cancel / delete attempts will be met with appropriate prompts.
 ## Expenses
 
 - User can go back to the previous contextual screen
-- User can see a list of all expenses, categorized by maintenance, repair, fuel, and other.
-- User go to the [Expense](#expense) report
+- User can see a list of all expenses, categorized by maintenance, repair, fuel, and other. Tap on one leads to [Expense](#expense)
 - User can add a new expense with the [Expense Form](#expense-form)
-- User can edit an expense with the [Expense Form](#expense-form)
+- Manager can edit an expense with the [Expense Form](#expense-form)
 
 ## Expense
 
@@ -152,14 +150,23 @@ Assuming Cancel / delete attempts will be met with appropriate prompts.
 - User should be able to see the receipt of the expense
 - User should be able to see shop information, if applicable
 - User should be able to see optional driver comments, if applicable
+- Manager can edit an expense with the [Expense Form](#expense-form)
 
 ## Incidents
+
+- User can go back to the previous contextual screen
+- User can see a list of all incidents, tapping on one leads to [Incident](#incident)
+- User can add a new incident with the [Incident Form](#incident-form)
+- Manager can edit an incident with the [Incident Form](#incident-form)
+
+## Incident
 
 - User can go back to the previous contextual screen
 - User should see the time and date of the incident
 - User should see a description of the incident
 - User should see involved party information
 - User should have the option to upload any other contextual information
+- Manager can edit an incident with the [Incident Form](#incident-form)
 
 ## Current Trip
 
