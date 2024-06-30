@@ -22,7 +22,7 @@ Assuming Cancel / delete attempts will be met with appropriate prompts.
   - Filterable by vehicle type, last driven, last driver, mileage, and maintenance status (Overdue, due soon, up-to-date)
 - User can go to [Vehicle Details](#vehicle-details) by selecting a vehicle.
 - User can single-tap checkout a vehicle; the state is updated appropriately
-- User can see their checked out vehicle. User can go to [Begin Trip](#begin-trip) contextually from here.
+- User can see their checked out vehicle. User can go to [Begin Trip](#begin-trip) from their checked out vehicle.
 - User can single-tap check in a vehicle; the state is updated appropriately
   - If a trip is in progress, the driver will be taken to the [End Trip](#end-trip) form
 - Manager can assign/edit a vehicle to a driver using the [Assign Vehicle Form](#assign-vehicle-form)
