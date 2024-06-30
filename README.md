@@ -97,7 +97,7 @@ Assuming Cancel / delete attempts will be met with appropriate prompts.
 ## Trips
 
 - User can go [Vehicles](#vehicles), or the previous contextual screen
-- User can go to[Maintenance](#maintenance)
+- User can go to [Maintenance](#maintenance)
 - User can see their [Current Trip](#current-trip), if one is in progress.
 - User can [Begin Trip](#begin-trip) if no trip is in progress.
 - User can view [Trip History](#trip-history)
