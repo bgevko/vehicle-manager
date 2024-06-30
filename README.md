@@ -10,7 +10,7 @@
   - Filterable by vehicle type, last driven, last driver, mileage, and maintenance status.
   - Maintenance status includes overdue, due soon, and up to date.
 - User can go to [Vehicle Details](#vehicle-details) by selecting a vehicle.
-- User can go to the [Trips](#trip) screen
+- User can go to the [Trips](#trips) screen
 - User can go to the [Maintenance](#maintenance) screen
 - Driver can check out a vehicle by tapping the designated button. The vehicle will be removed from the available list and added to the checked out list.
 - Driver can see their checked out vehicle. Driver can go to [Begin Trip](#begin-trip) contextually from here.
