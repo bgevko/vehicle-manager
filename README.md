@@ -131,9 +131,10 @@ Assuming Cancel / delete attempts will be met with appropriate prompts.
 - User can tap on a trip to view the [Trip Report](#trip-report)
 
 ## Trip Report
-
+- User can see trip date and time
+- User can see trip driver
+- User can see trip vehicle
 - User can see used mileage
-- User can see a list of all expenses
 - User can view [Expenses](#expenses) screen
 - User can view the [Incidents](#incidents) screen
 
