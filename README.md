@@ -164,6 +164,7 @@ Assuming Cancel / delete attempts will be met with appropriate prompts.
 ## Current Trip
 
 - User can go back to [Trips](#trips), or to the previous contextual menu
+- User can see the trip vehicle (tapping leads to [Vehicle Details](#vehicle-details))
 - User should be able to add an expense with a [Expense Form](#expense-form)
 - User should be able to add an incident with a [Incident Form](#incident-form)
 - User should be able to end the trip with a [End Trip](#end-trip)
