@@ -34,6 +34,17 @@
 - Manager can go back to [Vehicles](#vehicles)
 - Manager can go to [Vehicle Details](#vehicle-details)
 
+## Vehicle Form
+
+- Manager can input the vehicle's make, model, year, license plate, and current mileage.
+- Manager can select the vehicle type from a drop-down list
+- Manager can select the vehicle's current location from a drop-down list
+- Manager can upload a photo of the vehicle
+- Manager can add a description of the vehicle
+- Manager can save the vehicle
+- Manager can cancel the vehicle creation or editing
+- Manager can go back to [Vehicles](#vehicles)
+
 ## Vehicle Details
 
 - User can see the vehicle's current status (checked out or available).
