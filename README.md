@@ -28,8 +28,8 @@
 
 ## Manage Vehicles
 
-- Manager can add a new vehicle with the [Vehicle Form](#add-vehicle-form)
-- Manager can edit a vehicle with the [Vehicle Form](#edit-vehicle-form)
+- Manager can add a new vehicle with the [Vehicle Form](#vehicle-form)
+- Manager can edit a vehicle with the [Vehicle Form](#vehicle-form)
 - Manager can delete a vehicle with a prompt asking if they are sure
 - Manager can go back to [Vehicles](#vehicles)
 - Manager can go to [Vehicle Details](#vehicle-details)
