@@ -26,6 +26,7 @@ Assuming Cancel / delete attempts will be met with appropriate prompts.
   - If a trip is in progress, the driver will be taken to the [End Trip](#end-trip) form
 - Manager can assign/edit a vehicle to a driver using the [Assign Vehicle Form](#assign-vehicle-form)
 - Manager can go to the [Manage Vehicles](#manage-vehicles) screen
+- Manager can go to the [Reports](#reports) screen
 
 ## Assign Vehicle Form
 
@@ -204,3 +205,12 @@ Assuming Cancel / delete attempts will be met with appropriate prompts.
 - User can upload an existing photo of the receipt
 - User can crop the photo
 - User can save the photo, going back to the [Expense Form](#expense-form)
+
+## Reports
+
+- Manager can go back [vehicles](#vehicles)
+- Manager can create an expense report, with options to filter by date, driver, vehicle, expense type, and cost
+- Manager can create a trip report, with options to filter by date, driver, vehicle, mileage, and expenses
+- Manager can query a maintenance report, with options to filter by date, vehicle, maintenance type, and cost
+- Manager can query an incident report, with options to filter by date, driver, vehicle
+- Manager can export the generated report, or email it
