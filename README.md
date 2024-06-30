@@ -1,6 +1,11 @@
+# User Flow Draft
+---
+This is a text-only user flow of how the vehicle manager app would behave from various contexts. 
+Click on the links to simulate switching to a different page.
+
 ## Login
 
-- User can log in
+- User can log in, and will be redirected to the [Vehicles](#vehicles) screen
 - User can register
 - User can reset their password
 
