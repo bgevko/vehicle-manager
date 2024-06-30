@@ -211,6 +211,6 @@ Assuming Cancel / delete attempts will be met with appropriate prompts.
 - Manager can go back [vehicles](#vehicles)
 - Manager can create an expense report, with options to filter by date, driver, vehicle, expense type, and cost
 - Manager can create a trip report, with options to filter by date, driver, vehicle, mileage, and expenses
-- Manager can query a maintenance report, with options to filter by date, vehicle, maintenance type, and cost
-- Manager can query an incident report, with options to filter by date, driver, vehicle
+- Manager can create a maintenance report, with options to filter by date, vehicle, maintenance type, and cost
+- Manager can create an incident report, with options to filter by date, driver, vehicle
 - Manager can export the generated report, or email it
